@@ -6,19 +6,12 @@ Repositori ini berisi implementasi kode (C++) untuk **Tugas Besar Algoritma & Pe
 
 Sebuah perusahaan teknologi menerapkan alur kerja otomatisasi *Continuous Integration & Continuous Deployment* (CI/CD) yang dibagi menjadi empat tahap utama:
 
-1. 
 **Tahap 1 (T1):** Code Analysis 
-
-
-2. 
+ 
 **Tahap 2 (T2):** Automated Testing 
-
-
-3. 
+ 
 **Tahap 3 (T3):** Security Scanning 
-
-
-4. 
+ 
 **Tahap 4 (T4):** Deployment 
 
 
@@ -36,13 +29,9 @@ Tujuan utama dari program ini adalah **mencari rute layanan dari simpul asal (S)
 
 Berdasarkan spesifikasi tugas, program ini dirancang untuk menerima *hardcoded-input* struktur graf dari alur CI/CD dan menghasilkan keluaran berupa:
 
-* 
 **Total Bobot Minimal:** Menghitung dan menampilkan nilai total bobot kombinasi layanan yang paling efisien dari S ke E.
-
-
-* 
+ 
 **Jejak Rute (Path):** Menampilkan rangkaian nama *node* (layanan) yang harus diambil dari awal hingga akhir (Contoh format: `S -> Ax -> ... -> E`).
-
 
 
 ## 🛠️ Teknologi & Bahasa Pemrograman
