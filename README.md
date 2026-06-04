@@ -1,6 +1,6 @@
-# 🚀 Optimasi Alur Kerja CI/CD dengan Multistage Graph
+# Optimasi Alur Kerja CI/CD dengan Multistage Graph
 
-Repositori ini berisi implementasi kode (C++) untuk **Tugas Besar Algoritma & Pemrograman 2025-2026 Genap**. Program ini bertujuan untuk menyelesaikan permasalahan pencarian rute terpendek/termurah pada sebuah *Multistage Graph* menggunakan prinsip algoritma pencarian jalur (seperti Dijkstra / *Dynamic Programming*).
+Repositori ini dibuat untuk mengimplementasikan **Tugas Besar Algoritma & Pemrograman 2025-2026 Genap** kode (C++). Program ini bertujuan untuk menyelesaikan permasalahan pencarian rute terpendek/termurah pada sebuah *Multistage Graph* menggunakan prinsip algoritma pencarian jalur (seperti Dijkstra / *Dynamic Programming*).
 
 ## Deskripsi Studi Kasus
 
