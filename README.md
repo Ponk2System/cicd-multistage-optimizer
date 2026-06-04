@@ -43,9 +43,11 @@ Berdasarkan spesifikasi tugas, program ini dirancang untuk menerima *hardcoded-i
 
 ## 👥 Anggota Kelompok
 
-1. [Cornelius Fransinatra Wijaya] - [21120124140141]
-2. [Ashar Firdaus]                - [21120124130062]
-3. [Andre Jonathan Tampubolon]    - [21120124130050]
+| No. | Nama | NIM |
+| :--- | :---: | ---: |
+| 1 | Cornelius Fransinatra Wijaya | 21120124140141 |
+| 2 | Ashar Firdaus | 21120124130062 |
+| 3 | Andre Jonathan Tampubolon | 21120124130050 |
 
 ---
 
