@@ -2,7 +2,7 @@
 
 Repositori ini berisi implementasi kode (C++) untuk **Tugas Besar Algoritma & Pemrograman 2025-2026 Genap**. Program ini bertujuan untuk menyelesaikan permasalahan pencarian rute terpendek/termurah pada sebuah *Multistage Graph* menggunakan prinsip algoritma pencarian jalur (seperti Dijkstra / *Dynamic Programming*).
 
-## 📖 Deskripsi Studi Kasus
+## Deskripsi Studi Kasus
 
 Sebuah perusahaan teknologi menerapkan alur kerja otomatisasi *Continuous Integration & Continuous Deployment* (CI/CD) yang dibagi menjadi empat tahap utama:
 
@@ -25,7 +25,7 @@ Tujuan utama dari program ini adalah **mencari rute layanan dari simpul asal (S)
 > 
 > 
 
-## ✨ Fitur Program
+## Fitur Program
 
 Berdasarkan spesifikasi tugas, program ini dirancang untuk menerima *hardcoded-input* struktur graf dari alur CI/CD dan menghasilkan keluaran berupa:
 
@@ -34,7 +34,7 @@ Berdasarkan spesifikasi tugas, program ini dirancang untuk menerima *hardcoded-i
 **Jejak Rute (Path):** Menampilkan rangkaian nama *node* (layanan) yang harus diambil dari awal hingga akhir (Contoh format: `S -> Ax -> ... -> E`).
 
 
-## 🛠️ Teknologi & Bahasa Pemrograman
+## Teknologi & Bahasa Pemrograman
 
 * **Bahasa:** C++ (Translasi dari implementasi awal Java)
 * **Struktur Data:** *Priority Queue* (Min-Heap), *Vector/ArrayList*, *Struct/Class* untuk *Node* dan *Edge*.
@@ -45,7 +45,7 @@ Berdasarkan spesifikasi tugas, program ini dirancang untuk menerima *hardcoded-i
 
 1. [Cornelius Fransinatra Wijaya] - [21120124140141]
 2. [Ashar Firdaus]                - [21120124130062]
-3. [ANDRE JONATHAN TAMPUBOLON]    - [21120124130050]
+3. [Andre Jonathan Tampubolon]    - [21120124130050]
 
 ---
 
